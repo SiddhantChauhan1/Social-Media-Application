@@ -1,6 +1,6 @@
-# Social-Media-Application
+# Momentify
 
-Full Stack Social Media Application
+Full Stack and Fully functional Social media application
 
 ## Tech Stack
 ### Frontend
