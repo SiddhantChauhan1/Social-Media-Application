@@ -2,7 +2,7 @@
 
 Full Stack and Fully functional Social media application
 
-## Tech Stack
+## Tech Stack Used
 ### Frontend
 - Framework: Vue.js
 - Language: JavaScript
